@@ -1,4 +1,5 @@
 metis-web
 =========
 
-Metis web module
+Web module for metis marcionicolau\metis
+
